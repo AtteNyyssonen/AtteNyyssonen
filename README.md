@@ -2,8 +2,7 @@
 
 - 👀 I’m interested in basically anything that has to do with either computers or technology. Currently just learning everything about coding.
 
-- 🌱 I’m currently learning anything that has to do with coding at the same time as completing my uni studies. I already know the basics of Python so currently I'm trying to grasp
-the basics of git CD/CI and front-end development with HTML and React. Also trying to constantly learn new things and better my Python skill set.
+- 🌱 I’m currently learning anything that has to do with coding at the same time as completing my university studies. I already know Python and the basics of C++ so currently I'm trying to grasp a better understanding of C++ and different CD/CI frameworks.
 
 - 📫 If you want to reach me, you can send me a email at:
 
