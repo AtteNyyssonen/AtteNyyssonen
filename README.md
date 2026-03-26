@@ -1,4 +1,5 @@
-- 👋 Hi, I’m  Atte Kivelä, currently studying my fifth year of automation engineering at the University of Tampere. Graduating in March of 2026.
+- 👋 Hi, I’m  Atte Kivelä, M.Sc. in Automation Engineering, specialized in robotics.
+- Minors in software development, machine learning, and signal processing.
 <!---
 AtteNyyssonen/AtteNyyssonen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
